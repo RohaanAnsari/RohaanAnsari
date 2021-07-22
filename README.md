@@ -38,7 +38,7 @@
   &nbsp
   <a href="https://expressjs.com" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://i2.wp.com/www.mementotech.in/assets/images/icons/express.png"
       alt="express"
       width="40"
       height="40"
@@ -131,7 +131,7 @@
   &nbsp
   <a href="https://nextjs.org/" target="_blank">
     <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"
+      src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs"
       alt="nextjs"
       width="40"
       height="40"
