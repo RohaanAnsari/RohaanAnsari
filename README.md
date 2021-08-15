@@ -230,26 +230,6 @@
   &nbsp
 </p>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=rohaanansari&show_icons=true&locale=en&layout=compact"
-    alt="rohaanansari"
-  />
-</p>
+
  
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=rohaanansari&show_icons=true&locale=en"
-    alt="rohaanansari"
-  />
-</p>
- 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rohaanansari&"
-    alt="rohaanansari"
-  />
-</p>
+
