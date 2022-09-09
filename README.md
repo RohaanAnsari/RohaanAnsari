@@ -9,11 +9,6 @@
   />
 </p>
 
-- 👨‍💻 All of my projects are available at
-[https://comradesjs.herokuapp.com/#/home](https://comradesjs.herokuapp.com/#/home)
-- 💬 Ask me about **Web Development (MERN Stack)** - 📫 How to reach me
-**rohaanansari321@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/rohaan_107/" target="blank"
